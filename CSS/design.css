@@ -1,5 +1,13 @@
+html, body {
+    height: 100%;
+    width: 100%
+}
+
 body {
-  background-image: blue;
+  background-image: url('../images/4K-Creative-Universe-Planet-Wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 h1 {
